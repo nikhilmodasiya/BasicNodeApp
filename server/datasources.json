@@ -2,5 +2,16 @@
   "db": {
     "name": "db",
     "connector": "memory"
-  }
+  },
+  "mongo": {
+  "host": "192.168.0.4",
+  "port": 27017,
+  "url":  "",
+  "database": "admin",
+  "password": "",
+  "name": "mydb",
+  "user": "",
+  "authSource" : "admin",
+  "connector": "mongodb"
+}
 }
