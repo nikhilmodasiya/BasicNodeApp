@@ -16,6 +16,7 @@ app.start = function() {
       console.log('Browse your REST API at %s%s', baseUrl, explorerPath);
       console.log('hello world')
       console.log('123123')
+      console.log('blablabla')
     }
   });
 };
