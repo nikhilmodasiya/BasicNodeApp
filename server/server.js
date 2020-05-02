@@ -17,6 +17,7 @@ app.start = function() {
       console.log('hello world')
       console.log('123123')
       console.log('blablabla')
+      console.log('Testing456')
     }
   });
 };
